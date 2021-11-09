@@ -1,6 +1,6 @@
 ---
 title: Episode 2
-description: This is a post on My Blog about leveraging agile frameworks.
+description: Today, me and Titus talked about EVERY NFL team. Some teams we talked more about and some we talked less about. We will continue to do this on a weekly basis. We talked about what has happened so far for each team this season. For the next episode on NFL we will talk about week 9 and talk about the Thursday Night Football game (New York Jets vs Indianapolis Colts). (Mike White the Goat?)
 date: 2021-11-03
 tags:
 

@@ -1,10 +1,10 @@
 {
-  "title": "Your Blog Name",
+  "title": "The Jacksons Mic'd Up",
   "url": "https://example.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "This podcast will discuss the latest NBA and NFL news multiple times a week.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "NFL & NBA",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"

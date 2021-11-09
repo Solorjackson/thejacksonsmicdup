@@ -1,6 +1,6 @@
 ---
 title: Episode 3
-description: This is a post on My Blog about win-win survival strategies.
+description: Today was one of our shorter episodes about our top 3 predictions for sixth man of the year, most improved player, rookie of the year, defensive player of the year, and most valuable player. Titus then gave his hottest takes for the NBA season that he had written a couple weeks ago.
 date: 2021-11-05
 tags:
 

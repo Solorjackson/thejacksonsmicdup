@@ -12,8 +12,10 @@
   </head>
   <body>
     <header>
+      <div>
+      <img src="/img/header2logo.png" />
       <h1 class="home"><a href="{{ '/' | url }}">{{ metadata.title }}</a></h1>
-
+      </div>
       {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
       <ul class="nav">
       {%- for entry in collections.all | eleventyNavigation %}
@@ -24,7 +26,7 @@
 
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
 
-      <!-- Delete this message -->
+      <!-- Delete this message
       <div class="warning">
         <ol>
           <li>Edit the <code>_data/metadata.json</code> with your blog’s information.</li>
@@ -33,7 +35,7 @@
         </ol>
         <p><em>This is an <a href="https://www.11ty.dev/">Eleventy project</a> created from the <a href="https://github.com/11ty/eleventy-base-blog"><code>eleventy-base-blog</code> repo</a>.</em></p>
       </div>
-      <!-- Stop deleting -->
+      Stop deleting -->
 
       {{ content | safe }}
     </main>

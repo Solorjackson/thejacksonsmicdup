@@ -1,5 +1,5 @@
 {
-  "title": "The Jacksons Mic'd Up",
+  "title": "",
   "url": "https://example.com/",
   "language": "en",
   "description": "This podcast will discuss the latest NBA and NFL news multiple times a week.",
@@ -14,8 +14,7 @@
     "url": "https://example.com/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
-    "url": "https://example.com/about-me/"
+    "name": "Rocky & Titus Jackson",
+    "email": "rockyjacksonm15@gmail.com"
   }
 }

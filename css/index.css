@@ -8,6 +8,7 @@
   --white: #fff;
   --orange: #ee5037;
   --black: #000000;
+  --lightblack: #0C0F12;
 
 }
 
@@ -22,7 +23,7 @@ body {
   margin: 0;
   font-family: -apple-system, system-ui, sans-serif;
   color: var(--white);
-  background-color: var(--black);
+  background-color: var(--lightblack);
 }
 p:last-child {
   margin-bottom: 0;
